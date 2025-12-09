@@ -1,13 +1,14 @@
 pandas
 numpy
-pandas 
 matplotlib
-seaborn 
+seaborn
 ipykernel
 requests
 beautifulsoup4
-js
 folium
 plotly
 dash
 scikit-learn
+sqlalchemy
+ipython-sql
+prettytable
